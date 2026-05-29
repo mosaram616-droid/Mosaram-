@@ -1,3 +1,6 @@
+---
+license: cc-by-nc-nd-4.0
+---
 # WAM-2025: Structural Physics & Mass-Curvature Equivalence
    
 ## 🏛️ الملكية الفكرية والسيادة التقنية

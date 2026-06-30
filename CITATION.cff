@@ -1,0 +1,17 @@
+{ 
+    "action": "created", 
+    "release": { 
+        "assets": [], 
+        "assets_url": "https://api.github.com/repos/mosaram616-droid/Mosaram-/releases/331718707/assets",
+        // ... (باقي البيانات كما هي) ...
+    },
+    "repository": {
+        // ... (باقي البيانات كما هي) ...
+        "updated_at": "2026-05-29T19:03:54Z", 
+        "url": "https://api.github.com/repos/mosaram616-droid/Mosaram-", 
+        "visibility": "public", 
+        "watchers": 0, 
+        // ... (باقي البيانات كما هي) ...
+    },
+    // ... (النهاية كما هي)
+}
